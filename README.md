@@ -1,4 +1,4 @@
-<p align="center"><img src="./rick.png"></p>
+<div align="center"><img src="./img/rick.png"></div>
 
 ---
 
@@ -8,13 +8,11 @@ I am new webdeveloper and i like coding.
 ---
 
 # This is program languages that i learn:
-<img src="./c++.png" width="24">
-<img src="./python.png" width="24">
-<img src="./html-5.png" width="24">
-<img src="./css.png" width="24">
-<img src="./javascript.png" width="24">
-<img src="./sass.png" width="24">
-<img src="./json.png" width="24">
-<img src="./markdown.png" width="24">
-
----
+<img src="./img/c++.png" width="24">
+<img src="./img/python.png" width="24">
+<img src="./img/html-5.png" width="24">
+<img src="./img/css.png" width="24">
+<img src="./img/javascript.png" width="24">
+<img src="./img/sass.png" width="24">
+<img src="./img/json.png" width="24">
+<img src="./img/markdown.png" width="24">
