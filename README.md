@@ -1,16 +1,20 @@
-### Hi there 👋
+<p align="center"><img src="./rick.png"></p>
 
-<!--
-**Shara-Sh/Shara-Sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Hi my name is Shara.<br>
+I am new webdeveloper and i like coding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# This is program languages that i learn:
+<img src="./c++.png" width="24">
+<img src="./python.png" width="24">
+<img src="./html-5.png" width="24">
+<img src="./css.png" width="24">
+<img src="./javascript.png" width="24">
+<img src="./sass.png" width="24">
+<img src="./json.png" width="24">
+<img src="./markdown.png" width="24">
+
+---
