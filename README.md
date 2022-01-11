@@ -2,6 +2,10 @@
 
 ---
 
+<div align="center" style="width=100"><img src="https://www.codewars.com/users/Shara-Sh/badges/large"><br></div>
+
+---
+
 Hi my name is Shara.<br>
 I am new webdeveloper and i like coding.
 
