@@ -6,20 +6,22 @@
 
 ---
 
-Hi my name is Shara.<br>
-I am new webdeveloper and i like coding.
+# About Me
 
----
+Hello! I'm Shara Shahverdian, a 24-year-old enthusiast who loves everything related to computers, programming, and design. I enjoy crafting digital experiences and bringing ideas to life through code and creativity.
 
-# Program languages:
-<img src="./img/c++.png" width="24"> <img src="./img/python.png" width="24"> <img src="./img/javascript.png" width="24">
+## Background
 
----
+I hold a Bachelor's degree in Computer Science, which has equipped me with a solid understanding of technology and its applications. My journey has led me to explore various aspects of the digital realm, allowing me to appreciate the intricate balance between form and function.
 
-# Markup languages:
-<img src="./img/html-5.png" width="24"> <img src="./img/css.png" width="24"> <img src="./img/sass.png" width="24">
+## Interests
 
----
+- Computer Programming: I enjoy transforming ideas into functional software solutions, constantly pushing the boundaries of what's possible.
+- Designing: Creating visually appealing designs that not only look great but also enhance user experiences is something I'm genuinely passionate about.
 
-# Other:
-<img src="./img/json.png" width="24"> <img src="./img/markdown.png" width="24">
+## Skills
+- Intermediate Skills: Proficient in Python, HTML, CSS, and JavaScript, enabling me to create interactive and dynamic web applications.
+- Beginner Skills: I'm in the early stages of mastering PHP and SQL Server, aiming to further broaden my skill set.
+- Version Control: I'm familiar with Git and GitHub, which helps me collaborate effectively and track changes in my projects.
+
+Feel free to connect with me via [email](sharashahverdian@gmail.com).
