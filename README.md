@@ -8,7 +8,7 @@
 
 # About Me
 
-Hello! I'm Shara Shahverdian, a 24-year-old enthusiast who loves everything related to computers, programming, and design. I enjoy crafting digital experiences and bringing ideas to life through code and creativity.
+Hello! I'm Shara Shahverdian, an enthusiast who loves everything related to computers, programming, and design. I find joy in crafting digital experiences and bringing ideas to life through code and creativity.
 
 ## Background
 
