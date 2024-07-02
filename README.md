@@ -1,4 +1,4 @@
-<div align="center"><img src="./img/skuy.jpg"></div>
+<div align="center"><img src="./img/skuy.jpg" style="width: 100px; height: 100px; border-radius: 50%;"></div>
 
 ---
 
