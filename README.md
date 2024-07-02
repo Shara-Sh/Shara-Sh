@@ -1,4 +1,4 @@
-<div align="center"><img src="./img/rick.png"></div>
+<div align="center"><img src="./img/skuy.jpg"></div>
 
 ---
 
@@ -20,8 +20,7 @@ I hold a Bachelor's degree in Computer Science, which has equipped me with a sol
 - Designing: Creating visually appealing designs that not only look great but also enhance user experiences is something I'm genuinely passionate about.
 
 ## Skills
-- Intermediate Skills: Proficient in Python, HTML, CSS, and JavaScript, enabling me to create interactive and dynamic web applications.
-- Beginner Skills: I'm in the early stages of mastering PHP and SQL Server, aiming to further broaden my skill set.
+- Intermediate Skills: Proficient in Python, HTML, CSS, JavaScript, React, and TypeScript, enabling me to create interactive and dynamic web applications.
 - Version Control: I'm familiar with Git and GitHub, which helps me collaborate effectively and track changes in my projects.
 
 Feel free to connect with me via [email](sharashahverdian@gmail.com).
