@@ -1,4 +1,4 @@
-<div align="center"><img src="./assets/pictures/Shara.jpg" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;"></div>
+<div><img src="./assets/banners/night-city.jpg" style="width: 100%; height: 100px; object-fit: cover;"></div>
 
 # 👋 Hey there!
 
