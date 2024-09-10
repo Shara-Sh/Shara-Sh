@@ -1,26 +1,51 @@
-<div align="center"><img src="./img/skuy.jpg" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;"></div>
+<div align="center"><img src="./assets/pictures/Shara.jpg" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;"></div>
 
----
+# 👋 Hey there!
 
-<div align="center" style="width=100"><img src="https://www.codewars.com/users/Shara-Sh/badges/large"><br></div>
+## 💻 About Me
 
----
+I'm Shara, an enthusiast who loves everything related to computers, programming, and design. I find joy in crafting digital experiences and bringing ideas to life through code and creativity.
 
-# About Me
+## 🎓 Background
 
-Hello! I'm Shara Shahverdian, an enthusiast who loves everything related to computers, programming, and design. I find joy in crafting digital experiences and bringing ideas to life through code and creativity.
+I hold a Bachelor's degree in Computer Science, where I developed a passion for problem-solving and innovation through technology. My education provided me with a solid understanding of programming, software development, and design principles, which laid the groundwork for my skills in Python, JavaScript, and web technologies.
 
-## Background
+## 💡 Interests
 
-I hold a Bachelor's degree in Computer Science, which has equipped me with a solid understanding of technology and its applications. My journey has led me to explore various aspects of the digital realm, allowing me to appreciate the intricate balance between form and function.
+- 💻 Computer Programming: I enjoy transforming ideas into functional software solutions, constantly pushing the boundaries of what's possible.
+- 🎨 Designing: Creating visually appealing designs that not only look great but also enhance user experiences is something I'm genuinely passionate about.
 
-## Interests
+## 🛠️ Skills
 
-- Computer Programming: I enjoy transforming ideas into functional software solutions, constantly pushing the boundaries of what's possible.
-- Designing: Creating visually appealing designs that not only look great but also enhance user experiences is something I'm genuinely passionate about.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
-## Skills
-- Intermediate Skills: Proficient in Python, HTML, CSS, JavaScript, React, and TypeScript, enabling me to create interactive and dynamic web applications.
-- Version Control: I'm familiar with Git and GitHub, which helps me collaborate effectively and track changes in my projects.
+![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
 
-Feel free to connect with me via [email](sharashahverdian@gmail.com).
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
+
+![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
+![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+
+![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
+
+## 🌐 Languages
+
+| Language                                                                                                      | Proficiency     |
+| ------------------------------------------------------------------------------------------------------------- | --------------- |
+| <img src="./assets/flags/armenia.png" width="25" height="25" style="vertical-align: middle;" /> Armenian      | Native language |
+| <img src="./assets/flags/iran.png" width="25" height="25" style="vertical-align: middle;" /> Persian          | Fluent          |
+| <img src="./assets/flags/united-states.png" width="25" height="25" style="vertical-align: middle;" /> English | Intermediate    |
+
+## 📧 How To Reach Me
+
+[<img src="./assets/socials/linkedin.png" height="40em" align="center" alt="Follow Shara on LinkedIn" title="Follow Shara on LinkedIn"/>](https://www.linkedin.com/in/shara-sh/)
+[<img src="./assets/socials/gmail.png" height="40em" align="center" alt="reach Shara on Gmail" title="reach Shara on Gmail"/>](mailto:sharashahverdian@gmail.com)
