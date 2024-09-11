@@ -1,4 +1,4 @@
-<div><img src="./assets/banners/night-city.jpg" style="width: 100%; height: 100px; object-fit: cover;"></div>
+<p align="center"><img src="./assets/banners/night-city.jpg"></p>
 
 # 👋 Hey there!
 
