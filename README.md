@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/banners/night-city.jpg"></p>
+<p align="center"><img src="./assets/banners/night-city.png"></p>
 
 # 👋 Hey there!
 
