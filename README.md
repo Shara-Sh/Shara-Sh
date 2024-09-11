@@ -39,11 +39,11 @@ I hold a Bachelor's degree in Computer Science, where I developed a passion for 
 
 ## 🌐 Languages
 
-| Language                                                                                                      | Proficiency     |
-| ------------------------------------------------------------------------------------------------------------- | --------------- |
-| <img src="./assets/flags/armenia.png" width="25" height="25" style="vertical-align: middle;" /> Armenian      | Native language |
-| <img src="./assets/flags/iran.png" width="25" height="25" style="vertical-align: middle;" /> Persian          | Fluent          |
-| <img src="./assets/flags/united-states.png" width="25" height="25" style="vertical-align: middle;" /> English | Intermediate    |
+| Language                                                                      | Proficiency     |
+| ----------------------------------------------------------------------------- | --------------- |
+| <img src="./assets/flags/armenia.png" width="25" height="25" /> Armenian      | Native language |
+| <img src="./assets/flags/iran.png" width="25" height="25" /> Persian          | Fluent          |
+| <img src="./assets/flags/united-states.png" width="25" height="25" /> English | Intermediate    |
 
 ## 📧 How To Reach Me
 
