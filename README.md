@@ -36,16 +36,17 @@ I hold a Bachelor's degree in Computer Science, where I developed a passion for 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
+![Supabase](https://img.shields.io/badge/-Supabase-%231c1c1c?style=flat-square&logo=supabase&logoColor=3dce8d)
 
 ## 🌐 Languages
 
-| Language                                                                      | Proficiency     |
-| ----------------------------------------------------------------------------- | --------------- |
-| <img src="./assets/flags/armenia.png" width="25" height="25" /> Armenian      | Native language |
-| <img src="./assets/flags/iran.png" width="25" height="25" /> Persian          | Fluent          |
-| <img src="./assets/flags/united-states.png" width="25" height="25" /> English | Intermediate    |
+| Language                                                                                                      | Proficiency     |
+| ------------------------------------------------------------------------------------------------------------- | --------------- |
+| <img src="./assets/flags/armenia.png" width="25" height="25" style="vertical-align: middle;" /> Armenian      | Native language |
+| <img src="./assets/flags/iran.png" width="25" height="25" style="vertical-align: middle;" /> Persian          | Fluent          |
+| <img src="./assets/flags/united-states.png" width="25" height="25" style="vertical-align: middle;" /> English | Intermediate    |
 
-## 📧 How To Reach Me
+## 📫 How To Reach Me
 
 [<img src="./assets/socials/linkedin.png" height="40em" align="center" alt="Follow Shara on LinkedIn" title="Follow Shara on LinkedIn"/>](https://www.linkedin.com/in/shara-sh/)
 [<img src="./assets/socials/gmail.png" height="40em" align="center" alt="reach Shara on Gmail" title="reach Shara on Gmail"/>](mailto:sharashahverdian@gmail.com)
