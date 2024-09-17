@@ -29,6 +29,7 @@ I hold a Bachelor's degree in Computer Science, where I developed a passion for 
 
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%236E2BF2?style=flat-square&logo=bootstrap&logoColor=ffffff)
 
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
 ![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff)
