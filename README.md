@@ -51,3 +51,4 @@ I hold a Bachelor's degree in Computer Science, where I developed a passion for 
 
 [<img src="./assets/socials/linkedin.png" height="40em" align="center" alt="Follow Shara on LinkedIn" title="Follow Shara on LinkedIn"/>](https://www.linkedin.com/in/shara-sh/)
 [<img src="./assets/socials/gmail.png" height="40em" align="center" alt="reach Shara on Gmail" title="reach Shara on Gmail"/>](mailto:sharashahverdian@gmail.com)
+[<img src="./assets/socials/website.png" height="40em" align="center" alt="reach Shara on Gmail" title="reach Shara on Gmail"/>](https://shara-sh.github.io/Shara-Sh)
