@@ -2,8 +2,11 @@ import { Download } from "lucide-react";
 
 function Banner() {
   return (
-    <div className="bg-gradient-to-b from-slate-blue to-white py-10" id="home">
-      <div className="mx-auto flex w-3/4 flex-col items-center justify-between gap-10 sm:flex-row sm:gap-0">
+    <div
+      className="bg-gradient-to-b from-slate-blue to-white py-10 dark:to-charcoal"
+      id="home"
+    >
+      <div className="mx-auto flex w-11/12 flex-col items-center justify-between gap-10 sm:w-3/4 sm:flex-row sm:gap-0">
         <div className="space-y-2">
           <h1 className="text-5xl font-bold">Hi i'm Shara</h1>
           <h2 className="text-4xl font-semibold">Front-End Developer</h2>
