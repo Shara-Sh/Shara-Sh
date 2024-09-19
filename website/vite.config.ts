@@ -5,4 +5,7 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
   plugins: [react()],
   base: "/Shara-Sh/",
+  server: {
+    host: "0.0.0.0",
+  },
 });

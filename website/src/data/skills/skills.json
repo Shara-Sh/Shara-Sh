@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Python",
+    "bgColor": "#3776AB",
+    "textColor": "#fff",
+    "image": "./assets/skills/python.svg"
+  },
+  {
+    "name": "HTML",
+    "bgColor": "#E44D27",
+    "textColor": "#fff",
+    "image": "./assets/skills/html.svg"
+  },
+  {
+    "name": "CSS",
+    "bgColor": "#1572B6",
+    "textColor": "#fff",
+    "image": "./assets/skills/css3.svg"
+  },
+  {
+    "name": "JavaScript",
+    "bgColor": "#FFCE5A",
+    "textColor": "#000",
+    "image": "./assets/skills/js.svg"
+  },
+  {
+    "name": "TypeScript",
+    "bgColor": "#1976D2",
+    "textColor": "#fff",
+    "image": "./assets/skills/typescript.svg"
+  },
+  {
+    "name": "Markdown",
+    "bgColor": "#000",
+    "textColor": "#fff",
+    "image": "./assets/skills/markdown.svg"
+  },
+  {
+    "name": "React",
+    "bgColor": "#282C34",
+    "textColor": "#fff",
+    "image": "./assets/skills/react.svg"
+  },
+  {
+    "name": "Sass",
+    "bgColor": "#CC6699",
+    "textColor": "#fff",
+    "image": "./assets/skills/sass.svg"
+  },
+  {
+    "name": "TailwindCSS",
+    "bgColor": "#1A202C",
+    "textColor": "#fff",
+    "image": "./assets/skills/tailwind-css.svg"
+  },
+  {
+    "name": "Bootstrap",
+    "bgColor": "#6E2BF2",
+    "textColor": "#fff",
+    "image": "./assets/skills/bootstrap.svg"
+  },
+  {
+    "name": "Vite",
+    "bgColor": "#646CFF",
+    "textColor": "#fff",
+    "image": "./assets/skills/vite.svg"
+  },
+  {
+    "name": "Prettier",
+    "bgColor": "#F7B93E",
+    "textColor": "#000",
+    "image": "./assets/skills/prettier.svg"
+  },
+  {
+    "name": "Git",
+    "bgColor": "#F05032",
+    "textColor": "#fff",
+    "image": "./assets/skills/git.svg"
+  },
+  {
+    "name": "VsCode",
+    "bgColor": "#007ACC",
+    "textColor": "#fff",
+    "image": "./assets/skills/visual-studio.svg"
+  },
+  {
+    "name": "Vercel",
+    "bgColor": "#fff",
+    "textColor": "#000",
+    "image": "./assets/skills/vercel.svg"
+  },
+  {
+    "name": "Supabase",
+    "bgColor": "#1C1C1C",
+    "textColor": "#fff",
+    "image": "./assets/skills/supabase.svg"
+  }
+]
