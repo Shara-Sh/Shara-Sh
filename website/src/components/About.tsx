@@ -3,7 +3,7 @@ import skillsData from "../data/skills/skills.json";
 
 function About() {
   return (
-    <div className="my-5">
+    <div className="my-5" id="about">
       <div className="mx-auto w-3/4 space-y-5">
         <h1 className="text-center text-5xl font-bold">About Me</h1>
         <h2 className="text-3xl font-bold text-slate-blue">About Me</h2>
