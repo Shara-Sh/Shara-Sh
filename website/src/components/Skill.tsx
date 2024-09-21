@@ -5,14 +5,14 @@ type SkillProps = {
   textColor: string;
 };
 
-function Skill(props: SkillProps) {
+function Skill({ image, name, bgColor, textColor }: SkillProps) {
   return (
     <div
-      className="flex h-[40px] w-[160px] items-center justify-center gap-2 rounded-lg text-xl text-white"
-      style={{ backgroundColor: props.bgColor, color: props.textColor }}
+      className="flex h-[40px] w-[160px] items-center justify-center gap-2 rounded-lg text-xl text-white shadow-lg"
+      style={{ backgroundColor: bgColor, color: textColor }}
     >
-      <img src={props.image} alt="skill" className="size-7" />
-      {props.name}
+      <img src={image} alt="skill" className="size-7" />
+      {name}
     </div>
   );
 }

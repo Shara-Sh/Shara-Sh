@@ -16,7 +16,7 @@ export const color = (skill: string) => {
       return "bg-[#282C34]";
     case "sass":
       return "bg-[#CC6699]";
-    case "tailwindcss":
+    case "tailwind css":
       return "bg-[#1A202C]";
     case "bootstrap":
       return "bg-[#6E2BF2]";

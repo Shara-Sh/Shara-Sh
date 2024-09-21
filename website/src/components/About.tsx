@@ -5,8 +5,8 @@ function About() {
   return (
     <div className="my-5" id="about">
       <div className="mx-auto w-11/12 space-y-5 sm:w-3/4">
-        <h1 className="text-center text-5xl font-bold">About Me</h1>
-        <h2 className="text-3xl font-bold text-slate-blue">About Me</h2>
+        <h1 className="mb-10 text-center text-5xl font-bold">About Me</h1>
+        {/* <h2 className="text-3xl font-bold text-slate-blue">About Me</h2> */}
         <p className="text-2xl text-slate-gray dark:text-white">
           I'm Shara, an enthusiast who loves everything related to computers,
           programming, and design. I find joy in crafting digital experiences

@@ -1,7 +1,8 @@
 [
   {
     "name": "Amd Swap",
-    "description": "A personal currency converter",
+    "description": "A personal currency converter app",
+    "privateProject": true,
     "website": "https://amd-swap.vercel.app/",
     "github": "https://github.com/Shara-Sh/amd-swap",
     "skills": [
@@ -10,7 +11,7 @@
       "Typescript",
       "JavaScript",
       "React",
-      "Tailwind",
+      "Tailwind CSS",
       "Supabase",
       "Vercel"
     ]

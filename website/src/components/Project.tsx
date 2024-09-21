@@ -5,17 +5,18 @@ import projectsData from "../data/projects.json";
 function Project() {
   return (
     <div
-      className="h-fit bg-gradient-to-t from-slate-blue to-white py-5 dark:to-charcoal"
+      className="h-fit bg-gradient-to-t from-slate-blue to-white py-10 dark:to-charcoal"
       id="project"
     >
       <div className="mx-auto w-11/12 sm:w-3/4">
-        <h1 className="my-5 text-center text-5xl font-bold">Projects</h1>
+        <h1 className="mb-10 text-center text-5xl font-bold">Projects</h1>
         <div className="grid grid-cols-1 place-items-center gap-5 lg:grid-cols-2">
           {projectsData.map((project, index) => (
             <ProjectCard
               key={index}
               name={project.name}
               description={project.description}
+              privateProject={project.privateProject}
               website={project.website}
               github={project.github}
               skills={project.skills}

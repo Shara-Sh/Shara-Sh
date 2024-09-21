@@ -4,10 +4,10 @@ type SkillBadgeProps = {
   skill: string;
 };
 
-function SkillBadge(props: SkillBadgeProps) {
+function SkillBadge({ skill }: SkillBadgeProps) {
   return (
-    <div className={`rounded-lg px-2 py-0.5 font-bold ${color(props.skill)}`}>
-      <p>{props.skill}</p>
+    <div className={`rounded-lg px-2 py-0.5 font-bold ${color(skill)}`}>
+      <p>{skill}</p>
     </div>
   );
 }
