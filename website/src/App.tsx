@@ -10,7 +10,7 @@ function App() {
   const darkMode = useSelector((state: RootState) => state.darkMode).darkMode;
 
   return (
-    <div className={darkMode ? "dark:bg-charcoal dark dark:text-white" : ""}>
+    <div className={darkMode ? "dark dark:bg-charcoal dark:text-white" : ""}>
       <Header />
       <Banner />
       <About />

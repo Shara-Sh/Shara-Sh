@@ -97,16 +97,24 @@ function Header() {
             {isExtended ? (
               <ul className="absolute left-0 top-[83px] w-full bg-white text-center shadow-lg *:p-5 hover:*:cursor-pointer hover:*:bg-slate-blue hover:*:text-white dark:bg-charcoal dark:shadow-slate-blue">
                 <li>
-                  <a href="#home">Home</a>
+                  <a href="#home" onClick={() => setIsExtended(false)}>
+                    Home
+                  </a>
                 </li>
                 <li>
-                  <a href="#about">About</a>
+                  <a href="#about" onClick={() => setIsExtended(false)}>
+                    About
+                  </a>
                 </li>
                 <li>
-                  <a href="#project">Project</a>
+                  <a href="#project" onClick={() => setIsExtended(false)}>
+                    Project
+                  </a>
                 </li>
                 <li>
-                  <a href="#contact">Contact</a>
+                  <a href="#contact" onClick={() => setIsExtended(false)}>
+                    Contact
+                  </a>
                 </li>
               </ul>
             ) : (

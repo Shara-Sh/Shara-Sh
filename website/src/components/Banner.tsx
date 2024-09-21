@@ -1,4 +1,4 @@
-import { Download } from "lucide-react";
+// import { Download } from "lucide-react";
 
 function Banner() {
   return (
@@ -10,10 +10,10 @@ function Banner() {
         <div className="space-y-2">
           <h1 className="text-5xl font-bold">Hi i'm Shara</h1>
           <h2 className="text-4xl font-semibold">Front-End Developer</h2>
-          <button className="flex items-center gap-1 rounded-lg bg-slate-blue px-4 py-2 text-2xl text-white hover:bg-slate-blue/75">
+          {/* <button className="flex items-center gap-1 rounded-lg bg-slate-blue px-4 py-2 text-2xl text-white hover:bg-slate-blue/75">
             <Download />
             Resume
-          </button>
+          </button> */}
         </div>
         <img
           src="./assets/code_thinking.svg"
