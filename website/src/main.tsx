@@ -12,7 +12,7 @@ createRoot(document.getElementById("root")!).render(
     <Provider store={store}>
       <Router basename="/Shara-Sh/">
         <Routes>
-          <Route path="/" Component={App} />
+          <Route path="/" element={<App />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </Router>

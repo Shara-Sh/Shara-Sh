@@ -26,7 +26,9 @@ function Footer() {
             />
           </a>
         </div>
-        <h3 className="text-xl">Design By Shara</h3>
+        <h3 className="text-xl">
+          Designed By <span className="font-bold">Shara</span>
+        </h3>
       </div>
     </div>
   );

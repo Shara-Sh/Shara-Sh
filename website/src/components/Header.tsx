@@ -34,9 +34,9 @@ function Header() {
     <div className="sticky top-0 bg-white py-5 shadow-lg dark:bg-charcoal dark:text-white dark:shadow-slate-blue">
       <div className="mx-auto flex w-11/12 items-center justify-between">
         <img
-          src="./assets/Shara.jpg"
+          src="./assets/code.jpg"
           alt="Shara"
-          className="w-12 rounded-full"
+          className="size-12 rounded-full"
         />
         {screenWidth >= 712 ? (
           <ul className="flex gap-5 *:px-4 *:py-2 hover:*:cursor-pointer hover:*:rounded-lg hover:*:bg-slate-blue hover:*:px-4 hover:*:py-2 hover:*:text-white">
@@ -72,7 +72,7 @@ function Header() {
           </ul>
         ) : (
           <div>
-            <ul className="flex gap-5 *:px-4 *:py-2 hover:*:cursor-pointer hover:*:rounded-lg hover:*:bg-slate-blue hover:*:px-4 hover:*:py-2 hover:*:text-white">
+            <ul className="flex gap-2 *:px-4 *:py-2 hover:*:cursor-pointer hover:*:rounded-lg hover:*:px-4 hover:*:py-2 sm:hover:*:bg-slate-blue sm:hover:*:text-white">
               <li>
                 {darkMode ? (
                   <button
@@ -95,24 +95,40 @@ function Header() {
               </li>
             </ul>
             {isExtended ? (
-              <ul className="absolute left-0 top-[83px] w-full bg-white text-center shadow-lg *:p-5 hover:*:cursor-pointer hover:*:bg-slate-blue hover:*:text-white dark:bg-charcoal dark:shadow-slate-blue">
+              <ul className="absolute left-0 top-[83px] w-full bg-white text-center shadow-lg hover:*:cursor-pointer sm:hover:*:bg-slate-blue sm:hover:*:text-white dark:bg-charcoal dark:shadow-slate-blue">
                 <li>
-                  <a href="#home" onClick={() => setIsExtended(false)}>
+                  <a
+                    className="block p-5"
+                    href="#home"
+                    onClick={() => setIsExtended(false)}
+                  >
                     Home
                   </a>
                 </li>
                 <li>
-                  <a href="#about" onClick={() => setIsExtended(false)}>
+                  <a
+                    className="block p-5"
+                    href="#about"
+                    onClick={() => setIsExtended(false)}
+                  >
                     About
                   </a>
                 </li>
                 <li>
-                  <a href="#project" onClick={() => setIsExtended(false)}>
+                  <a
+                    className="block p-5"
+                    href="#project"
+                    onClick={() => setIsExtended(false)}
+                  >
                     Project
                   </a>
                 </li>
                 <li>
-                  <a href="#contact" onClick={() => setIsExtended(false)}>
+                  <a
+                    className="block p-5"
+                    href="#contact"
+                    onClick={() => setIsExtended(false)}
+                  >
                     Contact
                   </a>
                 </li>

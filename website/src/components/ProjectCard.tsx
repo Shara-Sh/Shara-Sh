@@ -30,7 +30,7 @@ function ProjectCard({
       <div className="flex flex-1 items-end gap-3">
         <a href={website} target="_blank">
           <button className="flex w-fit items-center gap-1 rounded-lg bg-slate-blue px-4 py-2 text-2xl text-white hover:bg-slate-blue/75">
-            <p>Read More</p>
+            <p>Visit Website</p>
             <ArrowRight />
           </button>
         </a>
