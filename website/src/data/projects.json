@@ -12,8 +12,22 @@
       "JavaScript",
       "React",
       "Tailwind CSS",
-      "Supabase",
-      "Vercel"
+      "Supabase"
+    ]
+  },
+  {
+    "name": "Shahverdian Studio",
+    "description": "Showcase of architecture project's",
+    "privateProject": true,
+    "website": "https://shahverdianstudio.vercel.app/",
+    "github": "https://github.com/Shara-Sh/shahverdian-studio",
+    "skills": [
+      "HTML",
+      "CSS",
+      "Typescript",
+      "JavaScript",
+      "React",
+      "Tailwind CSS"
     ]
   }
 ]
