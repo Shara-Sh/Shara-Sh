@@ -7,7 +7,7 @@
   },
   {
     "name": "HTML",
-    "bgColor": "#E44D27",
+    "bgColor": "#E34F26",
     "textColor": "#fff",
     "image": "./assets/skills/html.svg"
   },
@@ -19,13 +19,13 @@
   },
   {
     "name": "JavaScript",
-    "bgColor": "#FFCE5A",
+    "bgColor": "#F7DF1E",
     "textColor": "#000",
     "image": "./assets/skills/js.svg"
   },
   {
     "name": "TypeScript",
-    "bgColor": "#1976D2",
+    "bgColor": "#3178C6",
     "textColor": "#fff",
     "image": "./assets/skills/typescript.svg"
   },
@@ -55,7 +55,7 @@
   },
   {
     "name": "Bootstrap",
-    "bgColor": "#6E2BF2",
+    "bgColor": "#7952B3",
     "textColor": "#fff",
     "image": "./assets/skills/bootstrap.svg"
   },
