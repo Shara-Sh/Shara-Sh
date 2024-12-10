@@ -94,5 +94,11 @@
     "bgColor": "#1C1C1C",
     "textColor": "#fff",
     "image": "./assets/skills/supabase.svg"
+  },
+  {
+    "name": "Figma",
+    "bgColor": "#1e1e1e",
+    "textColor": "#fff",
+    "image": "./assets/skills/figma.svg"
   }
 ]
