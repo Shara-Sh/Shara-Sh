@@ -38,6 +38,7 @@ I hold a Bachelor's degree in Computer Science, where I developed a passion for 
 
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 ![Supabase](https://img.shields.io/badge/-Supabase-%231c1c1c?style=flat-square&logo=supabase&logoColor=3dce8d)
+![Figma](https://img.shields.io/badge/-Figma-%231c1c1c?style=flat-square&logo=figma)
 
 ## 🌐 Languages
 
