@@ -42,6 +42,12 @@
     "image": "./assets/skills/react.svg"
   },
   {
+    "name": "Next.js",
+    "bgColor": "#000",
+    "textColor": "#fff",
+    "image": "./assets/skills/nextjs.svg"
+  },
+  {
     "name": "Sass",
     "bgColor": "#CC6699",
     "textColor": "#fff",
