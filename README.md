@@ -36,7 +36,6 @@ I hold a Bachelor's degree in Computer Science, where I developed a passion for 
 ![Typst](https://img.shields.io/badge/-Typst-FF6600?style=flat-square&logo=typst&logoColor=white)
 
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
-![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 

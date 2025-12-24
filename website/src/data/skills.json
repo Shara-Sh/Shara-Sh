@@ -30,12 +30,6 @@
     "image": "./assets/skills/typescript.svg"
   },
   {
-    "name": "Markdown",
-    "bgColor": "#000",
-    "textColor": "#fff",
-    "image": "./assets/skills/markdown.svg"
-  },
-  {
     "name": "React",
     "bgColor": "#282C34",
     "textColor": "#fff",
@@ -46,6 +40,12 @@
     "bgColor": "#000",
     "textColor": "#fff",
     "image": "./assets/skills/nextjs.svg"
+  },
+  {
+    "name": "React Native",
+    "bgColor": "#282C34",
+    "textColor": "#fff",
+    "image": "./assets/skills/react.svg"
   },
   {
     "name": "Sass",
@@ -66,16 +66,28 @@
     "image": "./assets/skills/bootstrap.svg"
   },
   {
+    "name": "Markdown",
+    "bgColor": "#000",
+    "textColor": "#fff",
+    "image": "./assets/skills/markdown.svg"
+  },
+  {
+    "name": "LaTeX",
+    "bgColor": "#008080",
+    "textColor": "#fff",
+    "image": "./assets/skills/latex.svg"
+  },
+  {
+    "name": "Typst",
+    "bgColor": "#ff6600",
+    "textColor": "#fff",
+    "image": "./assets/skills/typst.svg"
+  },
+  {
     "name": "Vite",
     "bgColor": "#646CFF",
     "textColor": "#fff",
     "image": "./assets/skills/vite.svg"
-  },
-  {
-    "name": "Prettier",
-    "bgColor": "#F7B93E",
-    "textColor": "#000",
-    "image": "./assets/skills/prettier.svg"
   },
   {
     "name": "Git",
